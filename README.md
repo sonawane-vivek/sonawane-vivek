@@ -2,6 +2,8 @@
 ### Hello! I'm Vivek Sonawane from India.
 ### Portfolio: https://vivek-ka-sasta-portfolio.web.app
 <br />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 🌱 I’m currently learning Flutter
 💬 Ask me about Tech & Social Media
 😄 Pronouns: He/Him
