@@ -1,10 +1,5 @@
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-  <br>
-### Hello! I'm Vivek ![](https://komarev.com/ghpvc/?username=sonawane-vivek)
-
-   <a href="https://www.linkedin.com/in/vivek-sonawane-0b86421b6/">
-    <img align="left" alt="viral's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
+  
    <a href="https://stackoverflow.com/users/14314951/v1v3k">
     <img align="left" alt="viral's stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
   </a>
