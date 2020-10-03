@@ -4,8 +4,8 @@
 <br />
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-🌱 I’m currently learning Flutter\n
-💬 Ask me about Tech & Social Media\n
+🌱 I’m currently learning Flutter...
+💬 Ask me about Tech & Social Media...
 😄 Pronouns: He/Him
 
 
