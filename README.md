@@ -1,5 +1,5 @@
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
+  <br>
 ### Hello! I'm Vivek ![](https://komarev.com/ghpvc/?username=sonawane-vivek)
 
    <a href="https://www.linkedin.com/in/vivek-sonawane-0b86421b6/">
@@ -10,6 +10,8 @@
   </a>
   <br>
   ### Portfolio: https://vivek-ka-sasta-portfolio.web.app
+  
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
     
 <br><br>
 - 🌱 I’m currently learning Flutter.
