@@ -10,7 +10,7 @@
 
 ### 👨‍💻 Languages and Tools
 
-#### Flutter <br />
+#### Flutter
 #### Android Studio
 
 
