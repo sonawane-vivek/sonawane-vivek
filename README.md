@@ -1,7 +1,7 @@
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <br />
 <img align="left" alt="GIF" src="https://github.com/viralvaghela/viralvaghela/blob/master/Hello.gif">  
-### Vivek Sonawane.
+## Vivek Sonawane.
 <br />
 
 ### Portfolio: https://vivek-ka-sasta-portfolio.web.app
