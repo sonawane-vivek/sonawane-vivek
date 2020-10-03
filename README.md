@@ -5,8 +5,7 @@
 ### Portfolio: https://vivek-ka-sasta-portfolio.web.app
   
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-    
-<br><br>
+   
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about Flutter.
 - 😄 Pronouns: He/Him
