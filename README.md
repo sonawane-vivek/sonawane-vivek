@@ -1,4 +1,3 @@
-![Hello](Hello.gif)
 # Vivek ![](https://komarev.com/ghpvc/?username=sonawane-vivek)
 
    <a href="https://www.linkedin.com/in/viral-v/">
@@ -28,7 +27,7 @@
 - 📫 How to reach me: [Instagram - @coding_Boy_](https://instagram.com/coding_boy_) , [Twitter - @MrCodingBoy](https://twitter.com/mrcodingboy)
 - 😄 My name is viral (विरल) not Vaayral 
 
-<img src="https://github-readme-stats.vercel.app/api?username=viralvaghela&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=sonawane-vivek&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 
  
