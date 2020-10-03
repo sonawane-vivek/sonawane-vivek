@@ -2,9 +2,7 @@
 
 ### Hello! I'm Brijesh Dhanani a Full Stack Developer from India.
   
-  
-  <br>
-  ### Portfolio: https://vivek-ka-sasta-portfolio.web.app
+### Portfolio: https://vivek-ka-sasta-portfolio.web.app
   
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
     
