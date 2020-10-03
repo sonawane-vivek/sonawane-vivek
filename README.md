@@ -8,7 +8,7 @@
 💬 Ask me about Tech & Social Media... <br />
 😄 Pronouns: He/Him
 
-[![Flutter](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![Flutter](https://img.shields.io/badge/-Flutter-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 
 
 <!--
