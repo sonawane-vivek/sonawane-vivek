@@ -1,8 +1,6 @@
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ### Hello! I'm Vivek Sonawane
-  
-### Portfolio: https://vivek-ka-sasta-portfolio.web.app
    
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about Flutter.
