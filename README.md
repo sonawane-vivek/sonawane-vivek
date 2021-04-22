@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Vivek Sonawane</h1>
-<h3 align="left">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonawane-vivek&label=Profile%20views&color=0e75b6&style=flat" alt="sonawane-vivek" /> </p>
 
